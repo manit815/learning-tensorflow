@@ -1,0 +1,24 @@
+{
+  "name": "learning-tensorflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manit815/learning-tensorflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manit815/learning-tensorflow/issues"
+  },
+  "homepage": "https://github.com/manit815/learning-tensorflow#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.15.3",
+    "bootstrap": "^4.3.1"
+  }
+}
